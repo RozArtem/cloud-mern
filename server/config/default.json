@@ -1,0 +1,7 @@
+
+{ 
+    "serverPort" : 5000, 
+    "dbUrl": "mongodb+srv://root:root@clouddisk.vepp6.mongodb.net/clouddisk?retryWrites=true&w=majority", 
+    "secretKey": "mern-secket-key", 
+    "filePath": "E:\\Rozum\\React\\mern-cloud\\MERN-cloud-disk\\server\\files" 
+}
